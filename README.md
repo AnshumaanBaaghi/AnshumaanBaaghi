@@ -1,10 +1,9 @@
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px">
+## Hey 👋, I'm [Anshumaan Baaghi!](https://github.com/AnshumaanBaaghi/)
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+### Glad to see you here! &nbsp; 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
 
-* 📖 Completed Higher Secondary in PCM Stream from Govt. Subhash Excellence H.S School,Bhopal(M.P) 
-
-* 💻 Currently learning [React](https://reactjs.org/).
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 When I am not coding, you'll find me at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
@@ -99,7 +98,7 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 
 </p>
 
-
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+### Show some ❤️ by starring some of the repositories!
