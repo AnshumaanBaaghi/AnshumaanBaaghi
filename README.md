@@ -73,43 +73,32 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
+<a href="https://github.com/AnshumaanBaaghi/Nykaa_Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Nykaa_Clone&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Open-Source-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Open-Source-Programs&hide_border=true&theme=radical" />
+<a href="https://github.com/AnshumaanBaaghi/InternTheory-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=InternTheory-Clone&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
+<a href="https://github.com/AnshumaanBaaghi/HindustanTimes_Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=HindustanTimes_Clone&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
+<a href="https://github.com/AnshumaanBaaghi/Youtube_Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Youtube_Clone&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
+<a href="https://github.com/AnshumaanBaaghi/Sudoku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Sudoku&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
+<a href="https://github.com/AnshumaanBaaghi/WeatherApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=WeatherApp&hide_border=true&theme=radical" />
 </a>
 
 </p>
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
-
----
 
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
