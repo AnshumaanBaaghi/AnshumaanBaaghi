@@ -11,7 +11,7 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 	<a href="https://www.linkedin.com/in/anshumaanbaaghi/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="https://asmit2952.github.io/">
+        <a href="https://anshumaanbaaghi.github.io/Portfolio/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
         <a href="mailto:AnshumaanBaaghi25@gmail.com">
@@ -72,8 +72,8 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/AnshumaanBaaghi/Nykaa_Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Nykaa_Clone&hide_border=true&theme=radical" />
+<a href="https://github.com/gyanimishra/tmetric-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyanimishra&repo=tmetric-clone&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/AnshumaanBaaghi/InternTheory-Clone">
@@ -92,8 +92,8 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Sudoku&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/AnshumaanBaaghi/WeatherApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=WeatherApp&hide_border=true&theme=radical" />
+<a href="https://github.com/AnshumaanBaaghi/Unit-2_Nykaa_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshumaanBaaghi&repo=Unit-2_Nykaa_Project&hide_border=true&theme=radical" />
 </a>
 
 </p>
